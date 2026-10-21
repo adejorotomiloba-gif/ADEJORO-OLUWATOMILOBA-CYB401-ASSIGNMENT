@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyses the 2023 3CX DesktopApp supply-chain security incident, examining its severity, potential impact, and cybersecurity response.
+This assignment analyses the 2023 3CX DesktopApp supply-chain security incident, examining its severity, potential impact, and cybersecurity response.
 
 ## Objectives
 
